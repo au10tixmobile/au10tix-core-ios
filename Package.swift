@@ -15,6 +15,6 @@ let package = Package(
             targets: ["Au10tixCore"]),
     ],
     targets: [
-        .binaryTarget(name: "Au10tixCore", url: "https://github.com/au10tixmobile/iOS_Distribution_pub/Au10tixCore.xcframework.zip", checksum: "f68125552485b4b7f6420b552ca254c5e00ef6e891cd76bf1d0f5fda448c66dd")
+        .binaryTarget(name: "Au10tixCore", url: "https://github.com/au10tixmobile/iOS_Distribution_pub/Au10tixCore.zip", checksum: "f68125552485b4b7f6420b552ca254c5e00ef6e891cd76bf1d0f5fda448c66dd")
     ]
 )
